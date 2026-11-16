@@ -1,6 +1,0 @@
-Nazwa zespołu: string
-Tytuł albumu: string
-Liczba utworów: int
-Rok wydania: int
-Liczba pobrań: long
-
